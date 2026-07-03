@@ -18,7 +18,7 @@
 
 ## 프로젝트 목록
 
-| # | 프로젝트 | 유형 | 기간 | 기술 스택 | 링크 |
+| # | 프로젝트 README | 유형 | 기간 | 기술 스택 | 배포 링크 |
 |---|---------|------|------|---------|------|
 | 1 | [Pick & Go — 감정과 취향으로 찾는 AI 영화 추천 서비스](./1학기_픽앤고_영화추천사이트) | 1학기 관통 프로젝트 | 2026.06.22 ~ 06.26 | Django 5.2, Vue 3, Python, SQLite, TMDB API, GMS API | [🔗 배포 사이트](https://pick-and-go-2z6d.onrender.com) · [💻 GitHub](https://github.com/jinmiri-dev/pick-and-go) |
 
