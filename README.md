@@ -22,6 +22,12 @@
 |---|---------|------|------|---------|------|
 | 1 | [Pick & Go — 감정과 취향으로 찾는 AI 영화 추천 서비스](./1학기_픽앤고_영화추천사이트) | 1학기 관통 프로젝트 | 2026.06.22 ~ 06.26 | Django 5.2, Vue 3, Python, SQLite, TMDB API, GMS API | [🔗 배포 사이트](https://pick-and-go-2z6d.onrender.com) · [💻 GitHub](https://github.com/jinmiri-dev/pick-and-go) |
 
+> **배포**: 2026.07.03, 관통 프로젝트 발표 이후 실제 서비스처럼 접근 가능한 상태로 완성하기 위해 무료 배포를 진행했습니다.
+> Render(백엔드+프론트 통합 서빙) + Neon PostgreSQL(DB) 조합을 선택했고,
+> SQLite→PostgreSQL 마이그레이션, N+1 쿼리 최적화, GMS→Gemini API 전환에 더해
+> 반응형 레이아웃 개선 및 모바일 대응 등 사용자 UX 다듬는 작업까지 함께 진행했습니다.
+> *(선택 이유: Vercel의 서버리스 구조는 Django 상시구동 서버와 맞지 않고, Railway/Fly.io는 최근 무료 티어가 사라져 카드 등록이 필요해짐 — 무료 배포가 목적이었기에 Render를 선택)*
+
 ---
 
 ## 활동 내역
