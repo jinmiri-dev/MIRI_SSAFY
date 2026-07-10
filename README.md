@@ -20,7 +20,9 @@
 
 | # | 프로젝트 README | 유형 | 기간 | 기술 스택 | 배포 링크 |
 |---|---------|------|------|---------|------|
-| 1 | [Pick & Go — 감정과 취향으로 찾는 AI 영화 추천 서비스](./1학기_픽앤고_영화추천사이트) | 1학기 관통 프로젝트 | 2026.06.22 ~ 06.26 | Django 5.2, Vue 3, Python, SQLite, TMDB API, GMS API | [🔗 배포 사이트](https://pick-and-go-2z6d.onrender.com) · [💻 GitHub](https://github.com/jinmiri-dev/pick-and-go) |
+| 1 | [Pick & Go — 감정과 취향으로 찾는 AI 영화 추천 서비스](./1학기_픽앤고_영화추천사이트) | 1학기 관통 프로젝트 🏆 최우수 | 2026.06.22 ~ 06.26 | Django 5.2, Vue 3, Python, SQLite, TMDB API, GMS API | [🔗 배포 사이트](https://pick-and-go-2z6d.onrender.com) · [💻 GitHub](https://github.com/jinmiri-dev/pick-and-go) |
+
+<img width="1080" height="1527" alt="관통프로젝트_최우수상" src="https://github.com/user-attachments/assets/3c273118-1db3-461f-a2ce-df8eabc7e95b" />
 
 > **2026.07.03 배포**: 관통 프로젝트 발표 이후 실제 서비스처럼 접근 가능한 상태로 완성하기 위해 무료 배포를 진행했습니다.
 > Render(백엔드+프론트 통합 서빙) + Neon PostgreSQL(DB) 조합을 선택했고,
@@ -31,8 +33,8 @@
 ---
 
 ## 활동 내역
-
 | 활동 | 내용 | 기간 |
 |------|------|------|
 | SSAFY 부울경 1반 CA | 자치회 활동 (Class Ambassador) | 2026 1학기 |
 | 광주 캠퍼스 SSAFY MeetUp! 쇼미더아이디어 최우수 🏆 | 상금 30만원 - 개발 언어 선택을 주제로 한 콩트 형식 발표(5인 1팀으로 참가) | 2026 1학기 |
+| SSAFY 15기 부울경 1반 관통 프로젝트 최우수 🏆 | AI 영화 추천 서비스 'Pick & Go' 개발 (팀장) | 2026 1학기 |
