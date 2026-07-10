@@ -24,11 +24,11 @@
 
 <img width="1080" height="1527" alt="관통프로젝트_최우수상" src="https://github.com/user-attachments/assets/3c273118-1db3-461f-a2ce-df8eabc7e95b" />
 
-> **2026.07.03 배포**: 관통 프로젝트 발표 이후 실제 서비스처럼 접근 가능한 상태로 완성하기 위해 무료 배포를 진행했습니다.
-> Render(백엔드+프론트 통합 서빙) + Neon PostgreSQL(DB) 조합을 선택했고,
-> SQLite→PostgreSQL 마이그레이션, N+1 쿼리 최적화, GMS→Gemini API 전환에 더해
-> 반응형 레이아웃 개선 및 모바일 대응 등 사용자 UX 다듬는 작업까지 함께 진행했습니다.
-> *(선택 이유: Vercel의 서버리스 구조는 Django 상시구동 서버와 맞지 않고, Railway/Fly.io는 최근 무료 티어가 사라져 카드 등록이 필요해짐 — 무료 배포가 목적이었기에 Render를 선택)*
+> **🚀 배포 (2026.07.03)**
+> 발표 이후에도 실제 접속 가능한 서비스로 완성하고자 무료 배포를 진행했습니다.
+> - **인프라**: Render(백엔드+프론트 통합 서빙) + Neon PostgreSQL
+> - **주요 작업**: SQLite→PostgreSQL 마이그레이션 · N+1 쿼리 최적화 · GMS→Gemini API 전환 · 반응형/모바일 UX 개선
+> - **Render 선택 이유**: Vercel(서버리스)은 Django 상시구동 서버와 궁합이 안 맞고, Railway/Fly.io는 무료 티어가 사라져 카드 등록이 필요해짐
 
 ---
 
