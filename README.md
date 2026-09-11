@@ -30,14 +30,13 @@
 | # | 프로젝트 README | 유형 | 기간 | 기술 스택 | 배포 링크 |
 |---|---------|------|------|---------|------|
 | 1 | [Pick & Go — 감정과 취향으로 찾는 AI 영화 추천 서비스](./1학기_픽앤고_영화추천사이트) | 1학기 관통 프로젝트 🏆 최우수 | 2026.06.22 ~ 06.26 | Django 5.2, Vue 3, Python, SQLite, TMDB API, GMS API | [🔗 배포 사이트](https://pick-and-go-2z6d.onrender.com) · [💻 GitHub](https://github.com/jinmiri-dev/pick-and-go) |
-| 2 | [주차바로 — AIoT 주차 관리 서비스](./2학기_공통프로젝트_주차바로) | 2학기 공통 프로젝트 🏆 우수 | 2026.07.06 ~ 08.10 | YOLOv8, ByteTrack, PaddleOCR, Jetson Orin Nano, Raspberry Pi, Spring Boot, React Native | [👤 사용자](https://i15e202.p.ssafy.io) · [🛠️ 관리자](https://i15e202.p.ssafy.io/admin/) · [💻 GitLab](https://lab.ssafy.com/s15-webmobile3-sub1/S15P11E202) |
+| 2 | [주차바로 — AIoT 주차 관리 서비스](./2학기_공통프로젝트_주차바로) | 2학기 공통 프로젝트 🏆 우수 | 2026.07.06 ~ 08.10 (6주) | YOLOv8, ByteTrack, PaddleOCR, Jetson Orin Nano, Raspberry Pi, Spring Boot, React Native | [👤 사용자](https://i15e202.p.ssafy.io) · [🛠️ 관리자](https://i15e202.p.ssafy.io/admin/) · [💻 GitLab](https://lab.ssafy.com/s15-webmobile3-sub1/S15P11E202) |
 
 ---
 
 ### 1학기 관통 프로젝트 최우수상
 
 <img width="1080" height="1527" alt="관통프로젝트_최우수상" src="https://github.com/user-attachments/assets/3c273118-1db3-461f-a2ce-df8eabc7e95b" />
-<img width="2429" height="3275" alt="공통프로젝트_우수상" src="https://github.com/user-attachments/assets/a4faebb7-bb8b-4bb6-9e4a-07c906653c9b" />
 
 
 > **🚀 Pick & Go 배포 (2026.07.03)**
@@ -52,18 +51,14 @@
 
 ### 2학기 공통 프로젝트 우수상
 
-<!-- 아래 주소를 GitHub에 상장 사진을 올린 후 생성되는 주소로 교체하세요. -->
-<img width="1080" alt="공통프로젝트_우수상" src="여기에_상장_이미지_URL_입력" />
+<img width="2429" height="3275" alt="공통프로젝트_우수상" src="https://github.com/user-attachments/assets/a4faebb7-bb8b-4bb6-9e4a-07c906653c9b" />
 
 > **🚗 주차바로**
 >
 > 주차 문제를 자동으로 감지하고, 대면 없이 차량 이동을 요청하는 AIoT 주차 관리 서비스입니다.
->
-> - **프로젝트 유형**: SSAFY 15기 2학기 공통 프로젝트
-> - **트랙**: AIoT
-> - **기간**: 2026.07.06 ~ 2026.08.10 (6주)
+
 > - **담당 역할**: AI 개발 및 Edge 디바이스 연동
-> - **수상**: SSAFY 15기 부울경 공통 프로젝트 우수 🏆
+
 
 #### 주요 기능
 
@@ -74,42 +69,3 @@
 - 앱을 통한 비대면 차량 이동 요청
 - 사용자 대상 실시간 푸시 알림
 - 관리자 웹을 통한 주차 현황 및 사건 관리
-
-#### 기술 스택
-
-- **Frontend**
-  - 사용자 앱: React Native (Expo), Tailwind CSS
-  - 관리자 웹: Vue 3 (Vite)
-
-- **Backend**
-  - Java 21
-  - Spring Boot 4.1
-  - Spring Security, JWT
-  - JPA/Hibernate, Flyway
-  - Gradle
-
-- **Database**
-  - MySQL
-
-- **AI / Edge**
-  - Jetson: YOLOv8 차량 탐지, ByteTrack 추적, 주차 상태 및 불편도 분석
-  - Raspberry Pi: YOLOv8n-pose 번호판 검출, PaddleOCR 번호판 인식
-
-- **통신 / 알림**
-  - Expo Push
-  - Android FCM / iOS APNs
-  - Edge ↔ Server: REST over Tailscale 사설망
-  - Backend → Edge 명령: 아웃박스 패턴
-
-- **Infrastructure**
-  - Docker
-  - Jenkins
-  - AWS EC2
-  - Nginx
-  - Tailscale
-
-#### 서비스 링크
-
-- [👤 사용자 서비스](https://i15e202.p.ssafy.io)
-- [🛠️ 관리자 서비스](https://i15e202.p.ssafy.io/admin/)
-- [💻 프로젝트 GitLab](https://lab.ssafy.com/s15-webmobile3-sub1/S15P11E202)
