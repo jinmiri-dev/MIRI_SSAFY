@@ -38,8 +38,18 @@
 
 ### 1학기 관통 프로젝트 최우수상
 
-<img width="1080" height="1527" alt="관통프로젝트_최우수상" src="https://github.com/user-attachments/assets/3c273118-1db3-461f-a2ce-df8eabc7e95b" />
-
+> **🎬 Pick & Go**
+>
+> 현재 감정과 영화 취향 유형인 **MVTI**를 바탕으로 영화를 추천하고, 감상 기록과 커뮤니티 활동까지 연결하는 **개인 맞춤형 영화 추천 서비스**입니다.
+>
+> - **담당 역할**: 팀장 · 프론트엔드 · UI/UX · 데이터 구성. 전체 화면 디자인과 사용자 흐름을 설계하고, MVTI 결과·영화 달력·커뮤니티·배지·알림·픽키 챗봇 UI를 구현했습니다.
+>
+> #### 주요 기능
+> - 8문항 영화 취향 테스트를 통한 16가지 MVTI 유형 분석과 결과 카드 제공
+> - 오늘의 감정·명대사·MVTI를 반영한 AI 영화 추천과 추천 이유 안내
+> - 영화 탐색, 장르 필터, 랜덤 영화 뽑기, TOP10 개인화 랭킹
+> - 친구 취향 궁합과 함께 보기 좋은 영화 추천
+> - 리뷰·댓글·좋아요·알림·영화 달력을 통한 감상 기록 및 커뮤니티 경험
 
 > **🚀 Pick & Go 배포 (2026.07.03)**
 >
@@ -49,11 +59,11 @@
 > - **주요 작업**: SQLite→PostgreSQL 마이그레이션 · N+1 쿼리 최적화 · GMS→Gemini API 전환 · 반응형/모바일 UX 개선
 > - **Render 선택 이유**: Vercel(서버리스)은 Django 상시 구동 서버와 궁합이 안 맞고, Railway/Fly.io는 무료 티어가 사라져 카드 등록이 필요해짐
 
+<img width="1080" height="1527" alt="관통프로젝트_최우수상" src="https://github.com/user-attachments/assets/3c273118-1db3-461f-a2ce-df8eabc7e95b" />
+
 ---
 
 ### 2학기 공통 프로젝트 우수상
-
-<img width="2429" height="3275" alt="공통프로젝트_우수상" src="https://github.com/user-attachments/assets/a4faebb7-bb8b-4bb6-9e4a-07c906653c9b" />
 
 > **🚗 주차바로**
 >
@@ -68,6 +78,8 @@
 > - 앱을 통한 비대면 차량 이동 요청
 > - 사용자 대상 실시간 푸시 알림
 > - 관리자 웹을 통한 주차 현황 및 사건 관리
+
+<img width="2429" height="3275" alt="공통프로젝트_우수상" src="https://github.com/user-attachments/assets/a4faebb7-bb8b-4bb6-9e4a-07c906653c9b" />
 
 ---
 
