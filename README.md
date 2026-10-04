@@ -32,7 +32,7 @@
 |---|---------|------|------|---------|------|
 | 1 | [Pick & Go — 감정과 취향으로 찾는 AI 영화 추천 서비스](./1학기_픽앤고_영화추천사이트) | 1학기 관통 프로젝트 🏆 최우수 | 2026.06.22 ~ 06.26 | Django 5.2, Vue 3, Python, SQLite, TMDB API, GMS API | [🔗 배포 사이트](https://pick-and-go-2z6d.onrender.com) · [💻 GitHub](https://github.com/jinmiri-dev/pick-and-go) |
 | 2 | [주차바로 — AIoT 주차 관리 서비스](./2학기_공통프로젝트_주차바로) | 2학기 공통 프로젝트 🏆 우수 | 2026.07.06 ~ 08.10 (6주) | YOLOv8, ByteTrack, PaddleOCR, Jetson Orin Nano, Raspberry Pi, Spring Boot, React Native | [👤 사용자](https://i15e202.p.ssafy.io) · [🛠️ 관리자](https://i15e202.p.ssafy.io/admin/) · [💻 GitLab](https://lab.ssafy.com/s15-webmobile3-sub1/S15P11E202) |
-| 3 | [GABOLLE(가볼래) — 부산 초개인화 여행 추천 서비스](./2학기_가볼래_빅데이터_분산) | 2학기 특화 프로젝트 🏆 우수 | 2026년 2학기 | React, TypeScript, React Native, Spring Boot, PostgreSQL, Redis, Python, OR-Tools | [💻 GitHub](https://github.com/jinmiri-dev/gabolle_bigdata) |
+| 3 | [GABOLLE(가볼래) — 부산 초개인화 여행 추천 서비스](./2학기_가볼래_빅데이터_분산) | 2학기 특화 프로젝트 🏆 우수 | 2026년 2학기 | React, TypeScript, React Native, Spring Boot, PostgreSQL, Redis, Python, OR-Tools | [🔗 웹](https://j15e201.p.ssafy.io/) · [ App Store](https://apps.apple.com/kr/app/%EA%B0%80%EB%B3%BC%EB%9E%98-gabolle/id6811252919) · [💻 GitHub](https://github.com/jinmiri-dev/gabolle_bigdata) |
 
 ---
 
