@@ -22,6 +22,7 @@
 | 2 | 광주 캠퍼스 SSAFY MeetUp! 쇼미더아이디어 최우수 🏆 | 상금 30만원 - 개발 언어 선택을 주제로 한 콩트 형식 발표 (5인 1팀으로 참가) |
 | 3 | SSAFY 15기 부울경 1반 관통 프로젝트 최우수 🏆 | AI 영화 추천 서비스 'Pick & Go' 개발 (팀장) |
 | 4 | SSAFY 15기 공통 프로젝트 우수 🏆 | AIoT 주차 관리 서비스 '주차바로' 개발 (AI 담당) |
+| 5 | SSAFY 15기 특화 프로젝트 우수 🏆 | 개인의 취향에 맞춘 여행 추천 서비스 'GABOLLE(가볼래)' 개발 (프론트엔드 담당) |
 
 ---
 
@@ -31,6 +32,7 @@
 |---|---------|------|------|---------|------|
 | 1 | [Pick & Go — 감정과 취향으로 찾는 AI 영화 추천 서비스](./1학기_픽앤고_영화추천사이트) | 1학기 관통 프로젝트 🏆 최우수 | 2026.06.22 ~ 06.26 | Django 5.2, Vue 3, Python, SQLite, TMDB API, GMS API | [🔗 배포 사이트](https://pick-and-go-2z6d.onrender.com) · [💻 GitHub](https://github.com/jinmiri-dev/pick-and-go) |
 | 2 | [주차바로 — AIoT 주차 관리 서비스](./2학기_공통프로젝트_주차바로) | 2학기 공통 프로젝트 🏆 우수 | 2026.07.06 ~ 08.10 (6주) | YOLOv8, ByteTrack, PaddleOCR, Jetson Orin Nano, Raspberry Pi, Spring Boot, React Native | [👤 사용자](https://i15e202.p.ssafy.io) · [🛠️ 관리자](https://i15e202.p.ssafy.io/admin/) · [💻 GitLab](https://lab.ssafy.com/s15-webmobile3-sub1/S15P11E202) |
+| 3 | [GABOLLE(가볼래) — 부산 초개인화 여행 추천 서비스](./2학기_가볼래_빅데이터_분산) | 2학기 특화 프로젝트 🏆 우수 | 2026년 2학기 | React, TypeScript, React Native, Spring Boot, PostgreSQL, Redis, Python, OR-Tools | [💻 GitHub](https://github.com/jinmiri-dev/gabolle_bigdata) |
 
 ---
 
@@ -66,3 +68,20 @@
 > - 앱을 통한 비대면 차량 이동 요청
 > - 사용자 대상 실시간 푸시 알림
 > - 관리자 웹을 통한 주차 현황 및 사건 관리
+
+---
+
+### 2학기 특화 프로젝트 우수상
+
+> **🧳 GABOLLE(가볼래)**
+>
+> 여행 목적·취향·예산·이동 조건을 반영해 부산 여행을 추천하고 일정으로 구성하는 **초개인화 로컬 여행 서비스**입니다.
+>
+> - **담당 역할**: 웹·모바일 프론트엔드 개발(React·TypeScript·React Native), 사용자 흐름 및 다국어 인터페이스 구현
+>
+> #### 주요 기능
+> - 여행 목적·취향·예산·이동 조건을 입력받는 여행 계획 생성 흐름
+> - 추천 장소 탐색, 장소 상세 정보 확인, 일정 고정·제외·교체 기능
+> - 영업시간·이동시간·체류시간을 반영한 날짜별 여행 일정 화면
+> - 현재 위치와 남은 시간을 바탕으로 한 현장 추천 및 일정 재계산 안내
+> - KO/EN 다국어 지원과 웹·모바일 환경에 맞춘 반응형 사용자 경험
