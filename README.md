@@ -26,7 +26,7 @@
 |---|---------|------|------|---------|------|
 | 1 | [Pick & Go — 감정과 취향으로 찾는 AI 영화 추천 서비스](./1학기_픽앤고_영화추천사이트) | 1학기 관통 프로젝트 🏆 최우수 | 2026.06.22 ~ 06.26 | Django 5.2, Vue 3, Python, SQLite, TMDB API, GMS API | [🔗 배포 사이트](https://pick-and-go-2z6d.onrender.com) · [💻 GitHub](https://github.com/jinmiri-dev/pick-and-go) |
 | 2 | [주차바로 — AIoT 주차 관리 서비스](./2학기_공통프로젝트_주차바로) | 2학기 공통 프로젝트 🏆 우수 | 2026.07.06 ~ 08.10 (6주) | YOLOv8, ByteTrack, PaddleOCR, Jetson Orin Nano, Raspberry Pi, Spring Boot, React Native | [💻 GitLab](https://lab.ssafy.com/s15-webmobile3-sub1/S15P11E202) |
-| 3 | [GABOLLE(가볼래) — 부산 초개인화 여행 추천 서비스](./2학기_가볼래_빅데이터_분산) | 2학기 특화 프로젝트 🏆 우수 | 2026년 2학기 | React, TypeScript, React Native, Spring Boot, PostgreSQL, Redis, Python, OR-Tools | [🤖 Google Play](https://lnkd.in/gu9tqb-W) · [ App Store](https://lnkd.in/ghwvukiK) · [💻 GitHub](https://github.com/jinmiri-dev/gabolle_bigdata) |
+| 3 | [GABOLLE(가볼래) — 부산 초개인화 여행 추천 서비스](./2학기_가볼래_빅데이터_분산) | 2학기 특화 프로젝트 🏆 우수 | 2026년 2학기 | React, TypeScript, React Native, Spring Boot, PostgreSQL, Redis, Python, OR-Tools | [🤖 Google Play](https://lnkd.in/gu9tqb-W) · [🍎 App Store](https://lnkd.in/ghwvukiK) · [💻 GitHub](https://github.com/jinmiri-dev/gabolle_bigdata) |
 
 
 ---
@@ -77,3 +77,5 @@
 > - 천장 카메라 기반 차량 탐지 및 실시간 추적
 > - 주차 완료 여부와 주차 상태 자동 판정
 > - 주차선 침범 및 이동 방해 정도 분석
+
+![2학기 공통 프로젝트 우수상](./진미리_SSAFY_공통프로젝트_AIoT_우수상.jpg)
