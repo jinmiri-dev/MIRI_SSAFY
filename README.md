@@ -23,19 +23,23 @@
 | 🥇 최우수 | **광주 캠퍼스 SSAFY MeetUp! 쇼미더아이디어** · 상금 30만원 | 개발 언어 선택을 주제로 한 콩트 형식 발표 (5인 1팀) |
 | 🥇 최우수 | **관통 프로젝트** · AI 영화 추천 서비스 Pick & Go | **팀장** |
 | 🥈 우수 | **공통 프로젝트** · AIoT 주차 관리 서비스 주차바로 | AI 담당 |
-| 🥈 우수 | **특화 프로젝트** · 부산 여행 추천 서비스 GABOLLE(가볼래) | 프론트엔드 담당 |
+| 🥈 우수 | **특화 프로젝트** · 부산 여행 추천 서비스 GABOLLE(가볼래) · 반 2등 | 프론트엔드 담당 |
 
 ## 📜 상장
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/3c273118-1db3-461f-a2ce-df8eabc7e95b" width="300" alt="관통 프로젝트 최우수상" /><br />
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/3c273118-1db3-461f-a2ce-df8eabc7e95b" width="240" alt="관통 프로젝트 최우수상" /><br />
       <sub><b>1학기 관통 프로젝트 최우수상</b> · Pick & Go</sub>
     </td>
-    <td align="center" width="50%">
-      <img src="./assets/certificates/진미리_SSAFY_공통프로젝트_AIoT_우수상.jpg" width="300" alt="2학기 공통 프로젝트 우수상" /><br />
+    <td align="center" width="33%">
+      <img src="./assets/certificates/진미리_SSAFY_공통프로젝트_AIoT_우수상.jpg" width="240" alt="2학기 공통 프로젝트 우수상" /><br />
       <sub><b>2학기 공통 프로젝트 우수상</b> · 주차바로</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="./assets/certificates/진미리_SSAFY_특화프로젝트_빅데이터_우수상.jpg" width="240" alt="2학기 특화 프로젝트 우수상" /><br />
+      <sub><b>2학기 특화 프로젝트 우수상</b> · GABOLLE</sub>
     </td>
   </tr>
 </table>
@@ -69,7 +73,7 @@
       <img src="assets/images/gabolle.svg" width="100%" alt="GABOLLE" />
       <h4>🌉 GABOLLE (가볼래)</h4>
       부산 초개인화 여행 추천 앱<br />
-      <sub>2학기 특화 · 2026년 2학기</sub><br /><br />
+      <sub>2학기 특화 · 2026.08.18 ~ 09.28 (7주)</sub><br /><br />
       <a href="./2학기_가볼래_빅데이터_분산">📄 README</a> ·
       <a href="https://lnkd.in/gu9tqb-W">🤖 Google Play</a> ·
       <a href="https://lnkd.in/ghwvukiK">🍎 App Store</a> ·
