@@ -29,7 +29,7 @@
 
 ### 🎬 Pick & Go · 관통 프로젝트 최우수
 
-<img src="assets/images/pickandgo.svg" width="360" align="right" alt="Pick & Go" />
+<img src="assets/images/pickandgo.svg" width="260" align="right" alt="Pick & Go" />
 
 현재 감정과 영화 취향 유형인 **MVTI**를 바탕으로 영화를 추천하고, 감상 기록과 커뮤니티 활동까지 연결하는 **개인 맞춤형 영화 추천 서비스**입니다.
 
@@ -41,7 +41,7 @@
 
 ### 🚗 주차바로 · 공통 프로젝트 우수
 
-<img src="assets/images/jucha-baro.svg" width="360" align="right" alt="주차바로" />
+<img src="assets/images/jucha-baro.svg" width="260" align="right" alt="주차바로" />
 
 주차 문제를 자동으로 감지하고, 대면 없이 차량 이동을 요청하는 **AIoT 주차 관리 서비스**입니다.
 
@@ -53,7 +53,7 @@
 
 ### 🌉 GABOLLE(가볼래) · 특화 프로젝트 우수
 
-<img src="assets/images/gabolle.svg" width="360" align="right" alt="GABOLLE" />
+<img src="assets/images/gabolle.svg" width="260" align="right" alt="GABOLLE" />
 
 여행 목적·취향·예산·이동 조건을 반영해 부산 여행지를 추천하고 하루 일정으로 구성해 주는 **초개인화 로컬 여행 서비스**입니다. Google Play와 App Store에 출시했습니다.
 
@@ -65,7 +65,7 @@
 
 ### 🍳 쿠킹테이블 · 자율 프로젝트(기업연계)
 
-<img src="assets/images/cookingtable.svg" width="360" align="right" alt="쿠킹테이블" />
+<img src="assets/images/cookingtable.svg" width="260" align="right" alt="쿠킹테이블" />
 
 요리 영상을 올리면 AI가 단계별 레시피로 나눠 주고, 학습에 동의한 영상은 **조리 로봇 기업의 학습 데이터**가 되는 서비스입니다.
 
