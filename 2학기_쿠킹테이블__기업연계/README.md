@@ -21,6 +21,18 @@ https://github.com/user-attachments/assets/27cadd64-e72e-43a8-b72c-50ba1a0e3399
 
 <sub>요리킹(쿠킹테이블) 앱 홍보 영상 · 49초</sub>
 
+## 🖼 최종 발표 장표
+
+<table>
+  <tr><td width="50%"><img src="deck/01.jpg" width="100%" /></td><td width="50%"><img src="deck/04.jpg" width="100%" /></td></tr>
+  <tr><td width="50%"><img src="deck/07.jpg" width="100%" /></td><td width="50%"><img src="deck/10.jpg" width="100%" /></td></tr>
+  <tr><td width="50%"><img src="deck/11.jpg" width="100%" /></td><td width="50%"><img src="deck/14.jpg" width="100%" /></td></tr>
+  <tr><td width="50%"><img src="deck/18.jpg" width="100%" /></td><td width="50%"><img src="deck/25.jpg" width="100%" /></td></tr>
+  <tr><td width="50%"><img src="deck/29.jpg" width="100%" /></td><td width="50%"><img src="deck/30.jpg" width="100%" /></td></tr>
+</table>
+
+📄 [전체 장표 PDF 보기 (35장)](쿠킹테이블_최종발표.pdf)
+
 ## 한눈에 보기
 
 | 항목 | 내용 |
