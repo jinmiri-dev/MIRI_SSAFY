@@ -80,7 +80,7 @@ flowchart LR
 
 ## 링크
 
-- 📝 벨로그 기록: [[자율] 요리 영상 레시피 서비스](https://velog.io/@bara0121/series)
+- 📝 벨로그 기록: 준비 중
 - 💻 코드: 비공개 저장소(기업연계 프로젝트라 비공개로 보관)
 
 <p align="center">
