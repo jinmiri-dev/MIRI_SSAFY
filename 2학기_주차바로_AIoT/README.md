@@ -23,9 +23,8 @@ https://github.com/user-attachments/assets/c66e1118-8ba7-4c34-bc34-3f2ba38e27e8
 # 🅿️ **스마트 주차장 서비스 [🚗 주차바로🚗]**
 
 
-[🚖 서비스 번들 다운로드(추가예정)](https://🔺도메인)
 
-[🚘 관리자 웹 바로가기](https://i15e202.p.ssafy.io/admin/)
+🚘 관리자 웹 · API 명세서(Swagger) — 프로젝트 종료 후 SSAFY 서버 반납으로 지금은 열리지 않아요
 
 [🚖 팀 노션 바로가기](https://app.notion.com/p/SSAFY-2-1-396967bab5a4804faef3f3def764090a?source=copy_link)
 
@@ -33,7 +32,6 @@ https://github.com/user-attachments/assets/c66e1118-8ba7-4c34-bc34-3f2ba38e27e8
 
 [🚖 ERD 바로가기](https://www.erdcloud.com/d/PfvfjfKdzG5ETYMuB)
 
-[🚘 API 명세서 바로가기 (Swagger)](https://i15e202.p.ssafy.io/api/swagger-ui/index.html#/%EC%B0%A8%EB%9F%89/register)
 
 [🚖 API 명세서 바로가기 (Notion)](https://app.notion.com/p/API-3a4967bab5a480c98ffdf9e7dbb38a2f?source=copy_link)
 

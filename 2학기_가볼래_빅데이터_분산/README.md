@@ -23,9 +23,11 @@ https://github.com/user-attachments/assets/cc0c6b41-c62d-4f08-b537-da1611ac955e
 
 # GABOLLE (가볼래)
 
+> 아래는 팀 저장소의 README를 그대로 옮긴 것입니다. 본문에 나오는 `docs/`·`CONTRIBUTING.md` 같은 문서는 비공개 팀 저장소에만 있어 링크를 뺐습니다.
+
 6인 팀의 부산 초개인화 여행 추천 서비스 GABOLLE(가볼래)와 팀 공용 개발 도구를 함께 관리하는 저장소입니다.
 
-> 서비스 구현 기준은 [`docs/gabolle/`](docs/gabolle/)의 v1.1 문서 6종입니다. 과거 `LOCAL_ROUTE_*` 문서는 형식과 검토 이력을 위한 참고 자료이며, 서비스명·DB·인증·개인정보 정책의 기준으로 사용하지 않습니다.
+> 서비스 구현 기준은 `docs/gabolle/`의 v1.1 문서 6종입니다. 과거 `LOCAL_ROUTE_*` 문서는 형식과 검토 이력을 위한 참고 자료이며, 서비스명·DB·인증·개인정보 정책의 기준으로 사용하지 않습니다.
 
 ## 여행 서비스 작업 영역
 
@@ -48,10 +50,10 @@ main
 > 🔴 **한 칸씩만 올라갑니다.** 건너뛰는 MR 은 CI 가 빨갛게 만듭니다
 > (`verify:mr-target` 잡). 예외는 `hotfix/…` 하나뿐이고, 그것도
 > **`main` 자신이 고장 났을 때**를 위한 것입니다 — 이유는
-> [docs/CI-RESILIENCE.md](docs/CI-RESILIENCE.md) 원칙 3.
+> docs/CI-RESILIENCE.md 원칙 3.
 
-협업 규칙은 [`docs/git-convention.md`](docs/git-convention.md)와 [`docs/jira-convention.md`](docs/jira-convention.md)를 따릅니다.
-처음이면 [`docs/ONBOARDING.md`](docs/ONBOARDING.md) 부터 읽습니다.
+협업 규칙은 `docs/git-convention.md`와 `docs/jira-convention.md`를 따릅니다.
+처음이면 `docs/ONBOARDING.md` 부터 읽습니다.
 
 비밀값은 커밋하지 않고 `.env.example` 에 변수명만 기록합니다.
 
@@ -109,7 +111,7 @@ node app/server.mjs https://github.com/pallets/flask 7777
 ⑤ 이제 당신 차례
 ```
 
-**팀으로 쓰려면** → [docs/ONBOARD-TEAM.md](docs/ONBOARD-TEAM.md) (3줄이면 붙는다)
+**팀으로 쓰려면** → docs/ONBOARD-TEAM.md (3줄이면 붙는다)
 
 ---
 
@@ -145,7 +147,7 @@ git 은 **같은 줄**을 고쳐야 충돌을 안다. 그런데 더 위험한 �
 장부는 그것을 코드를 쓰기 **전에** 터뜨린다.
 
 두 개의 관문으로 지킨다 — git ref 의 원자적 갱신(CAS)과 순수 함수 판정.
-불변식 I1~I7 은 [docs/INVARIANTS.md](docs/INVARIANTS.md) 에 있고,
+불변식 I1~I7 은 docs/INVARIANTS.md 에 있고,
 모델 검증기·카오스 테스트·`axmap audit` 이 **같은 검사기**를 공유한다.
 
 ---
@@ -205,7 +207,7 @@ claims: null    ← "모른다" 다
 단조 관계가 없다. 그래서 인기 대신 **결과**를 센다 — *그 파일이 나중에
 얼마나 고쳐졌나*. 그리고 관계가 없으면 **지침을 내지 않는다.**
 
-자세히 → [docs/WHY-CORPUS.md](docs/WHY-CORPUS.md)
+자세히 → docs/WHY-CORPUS.md
 
 ---
 
@@ -231,14 +233,14 @@ npm run smoke         # 🔴 화면이 실제로 뜨는지 헤드리스 크롬�
 
 | | |
 |---|---|
-| [CONTRIBUTING.md](CONTRIBUTING.md) | 작업 규칙 (사람에게도 AI 에게도 같다) |
-| [docs/ONBOARDING.md](docs/ONBOARDING.md) | clone 부터 첫 작업까지 |
-| [docs/HANDOVER.md](docs/HANDOVER.md) | 다른 PC·다른 사람이 이어받을 때 |
-| [docs/CI.md](docs/CI.md) | 파이프라인·러너·봇 토큰 |
-| [docs/CI-RESILIENCE.md](docs/CI-RESILIENCE.md) | **MR 이 한 달 내내 도는 조건** — 2026-08-26 사고에서 나온 원칙 |
-| [docs/git-convention.md](docs/git-convention.md) · [docs/jira-convention.md](docs/jira-convention.md) | 브랜치·커밋·이슈 규약 |
-| [bigData/CLAUDE.md](bigData/CLAUDE.md) | 부산 이동성 데이터 — 하지 않는 것부터 |
-| [bigData/docs/FIELD-STUDY.md](bigData/docs/FIELD-STUDY.md) | 현장 실험 설계 — 투표인가 텔레메트리인가, 모델은 언제 |
+| CONTRIBUTING.md | 작업 규칙 (사람에게도 AI 에게도 같다) |
+| docs/ONBOARDING.md | clone 부터 첫 작업까지 |
+| docs/HANDOVER.md | 다른 PC·다른 사람이 이어받을 때 |
+| docs/CI.md | 파이프라인·러너·봇 토큰 |
+| docs/CI-RESILIENCE.md | **MR 이 한 달 내내 도는 조건** — 2026-08-26 사고에서 나온 원칙 |
+| docs/git-convention.md · docs/jira-convention.md | 브랜치·커밋·이슈 규약 |
+| bigData/CLAUDE.md | 부산 이동성 데이터 — 하지 않는 것부터 |
+| bigData/docs/FIELD-STUDY.md | 현장 실험 설계 — 투표인가 텔레메트리인가, 모델은 언제 |
 
 ### axMap 저장소로 나간 문서
 
@@ -246,7 +248,7 @@ npm run smoke         # 🔴 화면이 실제로 뜨는지 헤드리스 크롬�
 2026-08-26 에 axMap 이 분리되면서 함께 나갔다 —
 [`rleaderjoon/axmap`](https://lab.ssafy.com/rleaderjoon/axmap) 의 `docs/` 에 있다.
 **이 저장소에는 axMap 이 아예 없다** — npm 꾸러미 `axmap-cli` 를 각자 깔아서 쓴다
-([CONTRIBUTING.md](CONTRIBUTING.md) 0.3 · [docs/AXMAP-NPM-MIGRATION.md](docs/AXMAP-NPM-MIGRATION.md)).
+(CONTRIBUTING.md 0.3 · docs/AXMAP-NPM-MIGRATION.md).
 
 ---
 
@@ -256,13 +258,13 @@ npm run smoke         # 🔴 화면이 실제로 뜨는지 헤드리스 크롬�
 
 - 🔴 **`Pipelines must succeed` 가 꺼져 있다.** 그래서 CI 검사 넷은 지금
   **아무것도 막지 않는다.** 켜는 순서와 조건은
-  [docs/CI-RESILIENCE.md](docs/CI-RESILIENCE.md) 원칙 6.
+  docs/CI-RESILIENCE.md 원칙 6.
 - 🔴 **러너가 한 대뿐이고 개인 PC 에 있다.** 그 PC 가 꺼지면 CI 가 멈춘다.
   각자 `bash ci/runner-up.sh` 로 하나씩 띄우는 것이 목표다.
 - **`bigData` 파트가 아직 `main` 에 없다.** `feat/S15P21E201-9-bigdata-bootstrap`
   이 오래된 지점에서 갈라져 있다. 올릴 때 `main` 을 먼저 머지해야 한다.
 - **현장 실험 응답이 아직 0건이다.** 문항과 추정기는 있고 검사도 통과하지만,
-  계수는 사람에게 물어야 나온다 — [bigData/docs/FIELD-STUDY.md](bigData/docs/FIELD-STUDY.md).
+  계수는 사람에게 물어야 나온다 — bigData/docs/FIELD-STUDY.md.
 - **BIMS 폴링이 노선 5개뿐이다.** 일일 트래픽 한도에서 역산한 수이고, 고른 기준은
   배차간격이다. focus(중구·동구)를 실제로 지나는 노선으로 좁히는 것은 아직 안 했다.
 - **고도 타일 738개를 못 읽었다** (`tilesMissing`). 받기는 3,127개 다 받았는데
@@ -276,7 +278,7 @@ npm run smoke         # 🔴 화면이 실제로 뜨는지 헤드리스 크롬�
 ## 라이선스
 
 MIT. 마음대로 쓰고 고치고 팔아도 된다 — 저작권 표시만 남기면 된다.
-[LICENSE](LICENSE)
+LICENSE
 
 ---
 
