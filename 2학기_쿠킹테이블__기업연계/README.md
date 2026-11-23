@@ -80,7 +80,7 @@ flowchart LR
 
 ## 링크
 
-- 📝 벨로그 기록: 준비 중
+- 📝 벨로그 기록: [[자율] 요리 영상 레시피 서비스](https://velog.io/@bara0121/series/%EC%9E%90%EC%9C%A8-%EC%9A%94%EB%A6%AC-%EC%98%81%EC%83%81-%EB%A0%88%EC%8B%9C%ED%94%BC-%EC%84%9C%EB%B9%84%EC%8A%A4) — Nginx 경로 규칙, 로그인 서비스, 서버 보안, 암호화 백업 6편
 - 💻 코드: 비공개 저장소(기업연계 프로젝트라 비공개로 보관)
 
 <p align="center">
