@@ -20,10 +20,11 @@
 |---|---|---|---|---|
 | 🎬 **Pick & Go**<br /><sub>AI 영화 추천 웹 서비스</sub> | 1학기 관통<br /><sub>2026.06.22 ~ 06.26</sub> | 🥇 최우수 | 팀장 · 프론트엔드 · 백엔드 · UI/UX | [README](./1학기_픽앤고_영화추천사이트) · [내가 한 일](./1학기_픽앤고_영화추천사이트/내가_한_일.md) · [velog](https://velog.io/@bara0121/series/%EA%B4%80%ED%86%B5-AI-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4) · [서비스](https://pick-and-go-2z6d.onrender.com) · [GitHub](https://github.com/jinmiri-dev/pick-and-go) |
 | 🚗 **주차바로**<br /><sub>AIoT 주차 관리 서비스</sub> | 2학기 공통<br /><sub>2026.07.06 ~ 08.10</sub> | 🥈 우수 | AI · 엣지 디바이스 연동 | [README](./2학기_주차바로_AIoT) · [velog](https://velog.io/@bara0121/series/%EC%98%81%EC%83%81-AI-%EC%8B%A4%EC%A0%84-%EB%85%B8%ED%8A%B8) · [GitLab](https://lab.ssafy.com/s15-webmobile3-sub1/S15P11E202) |
-| 🌉 **GABOLLE(가볼래)**<br /><sub>부산 초개인화 여행 추천 앱</sub> | 2학기 특화<br /><sub>2026.08.18 ~ 09.28</sub> | 🥈 우수 · 반 2등 | 웹·앱 프론트엔드 | [README](./2학기_가볼래_빅데이터_분산) · [내가 한 일](./2학기_가볼래_빅데이터_분산/내가_한_일.md) · [velog](https://velog.io/@bara0121/series/%ED%8A%B9%ED%99%94-%EB%B6%80%EC%82%B0-%EC%97%AC%ED%96%89-%EC%B6%94%EC%B2%9C-%EC%95%B1) · [Google Play](https://lnkd.in/gu9tqb-W) · [App Store](https://lnkd.in/ghwvukiK) |
-| 🍳 **쿠킹테이블**<br /><sub>요리 영상 레시피 AI 서비스 · 기업연계</sub> | 2학기 자율<br /><sub>2026.10.12 ~ 11.20</sub> | 🎤 발표 완료<br /><sub>결과 발표 전</sub> | 인프라 · 로그인 서비스 · 앱 화면 | [README](./2학기_쿠킹테이블__기업연계) · [내가 한 일](./2학기_쿠킹테이블__기업연계/내가_한_일.md) |
+| 🌉 **GABOLLE(가볼래)**<br /><sub>부산 초개인화 여행 추천 앱</sub> | 2학기 특화<br /><sub>2026.08.18 ~ 09.28</sub> | 🥈 우수 · 반 2등 | 웹·앱 프론트엔드 | [README](./2학기_가볼래_빅데이터_분산) · [내가 한 일](./2학기_가볼래_빅데이터_분산/내가_한_일.md) · [Jira 376](./2학기_가볼래_빅데이터_분산/Jira_작업_목록.md) · [velog](https://velog.io/@bara0121/series/%ED%8A%B9%ED%99%94-%EB%B6%80%EC%82%B0-%EC%97%AC%ED%96%89-%EC%B6%94%EC%B2%9C-%EC%95%B1) · [Google Play](https://lnkd.in/gu9tqb-W) · [App Store](https://lnkd.in/ghwvukiK) |
+| 🍳 **쿠킹테이블**<br /><sub>요리 영상 레시피 AI 서비스 · 기업연계</sub> | 2학기 자율<br /><sub>2026.10.12 ~ 11.20</sub> | 🎤 발표 완료<br /><sub>결과 발표 전</sub> | 인프라 · 로그인 서비스 · 앱 화면 | [README](./2학기_쿠킹테이블__기업연계) · [내가 한 일](./2학기_쿠킹테이블__기업연계/내가_한_일.md) · [Jira 83](./2학기_쿠킹테이블__기업연계/Jira_작업_목록.md) |
 
-> **내가 한 일** 문서에는 프로젝트에서 부딪힌 문제마다 고민한 선택지(A안·B안·C안), 고른 이유, 결과를 적었습니다.
+> **내가 한 일**에는 프로젝트에서 부딪힌 문제마다 고민한 선택지(A안·B안·C안), 고른 이유, 결과를 적었습니다.<br />
+> **Jira 작업 목록**에는 제가 맡은 이슈를 분야별로 묶었습니다. 1학기 관통은 Jira 없이 진행했고, 2학기 공통 목록은 준비 중입니다.
 
 ---
 
