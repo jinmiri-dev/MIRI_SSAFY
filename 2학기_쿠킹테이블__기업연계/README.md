@@ -15,6 +15,12 @@
 
 ---
 
+## 🎬 홍보 영상
+
+https://github.com/user-attachments/assets/27cadd64-e72e-43a8-b72c-50ba1a0e3399
+
+<sub>요리킹(쿠킹테이블) 앱 홍보 영상 · 49초</sub>
+
 ## 한눈에 보기
 
 | 항목 | 내용 |

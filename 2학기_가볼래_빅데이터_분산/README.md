@@ -1,5 +1,26 @@
 > 📌 이 프로젝트에서 **제가 한 일과 선택의 이유**는 [내가_한_일.md](내가_한_일.md)에 정리했습니다. · [포트폴리오 목록](../README.md)
 
+
+## 🎬 영상 포트폴리오
+
+https://github.com/user-attachments/assets/cc0c6b41-c62d-4f08-b537-da1611ac955e
+
+<sub>부산 여행 추천 앱 GABOLLE · 특화 프로젝트 영상 포트폴리오(136초)</sub>
+
+## 🖼 최종 발표 장표
+
+<table>
+  <tr><td width="50%"><img src="deck/g00.jpg" width="100%" /></td><td width="50%"><img src="deck/g04.jpg" width="100%" /></td></tr>
+  <tr><td width="50%"><img src="deck/g24.jpg" width="100%" /></td><td width="50%"><img src="deck/g19.jpg" width="100%" /></td></tr>
+  <tr><td width="50%"><img src="deck/g30.jpg" width="100%" /></td><td width="50%"><img src="deck/g32.jpg" width="100%" /></td></tr>
+  <tr><td width="50%"><img src="deck/g39.jpg" width="100%" /></td><td width="50%"><img src="deck/g42.jpg" width="100%" /></td></tr>
+  <tr><td width="50%"><img src="deck/g53.jpg" width="100%" /></td><td width="50%"><img src="deck/g55.jpg" width="100%" /></td></tr>
+</table>
+
+📄 [전체 장표 PDF 보기 (11장, 마지막 장은 출시 화면)](가볼래_최종발표.pdf)
+
+---
+
 # GABOLLE (가볼래)
 
 6인 팀의 부산 초개인화 여행 추천 서비스 GABOLLE(가볼래)와 팀 공용 개발 도구를 함께 관리하는 저장소입니다.

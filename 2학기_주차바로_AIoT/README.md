@@ -1,5 +1,25 @@
 > 📌 이 프로젝트에서 **제가 한 일과 선택의 이유**는 [내가_한_일.md](내가_한_일.md)에 정리했습니다. · [포트폴리오 목록](../README.md)
 
+
+## 🎬 영상 포트폴리오
+
+https://github.com/user-attachments/assets/c66e1118-8ba7-4c34-bc34-3f2ba38e27e8
+
+<sub>AIoT 주차 관리 서비스 주차바로 · 공통 프로젝트 영상 포트폴리오(86초)</sub>
+
+## 🖼 최종 발표 장표
+
+<table>
+  <tr><td width="50%"><img src="deck/001.jpg" width="100%" /></td><td width="50%"><img src="deck/007.jpg" width="100%" /></td></tr>
+  <tr><td width="50%"><img src="deck/015.jpg" width="100%" /></td><td width="50%"><img src="deck/036.jpg" width="100%" /></td></tr>
+  <tr><td width="50%"><img src="deck/048.jpg" width="100%" /></td><td width="50%"><img src="deck/062.jpg" width="100%" /></td></tr>
+  <tr><td width="50%"><img src="deck/071.jpg" width="100%" /></td><td width="50%"><img src="deck/085.jpg" width="100%" /></td></tr>
+</table>
+
+📄 [전체 장표 PDF 보기 (105쪽)](주차바로_최종발표.pdf)
+
+---
+
 # 🅿️ **스마트 주차장 서비스 [🚗 주차바로🚗]**
 
 
